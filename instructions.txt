@@ -3,8 +3,14 @@ You will be creating a calculator app that runs in the console.
 The app must meet the following requirements for level 3 - 3+: 
 
 1) Can Add, Subtract, Divide or Multiply two numbers based on user input.
-2) Uses functions and variables to help keep the code organized and re-usable. 
-3) Has a user-friendly interface that guides users through the calculation
+2) Has a user-friendly interface that guides users through the calculation
+
+You must use the following concepts in the code base:
+- Variables (let and const)
+- Functions (any type is fine)
+- Code must be fully commented (comments explaining what is happening in the codebase)
+- Use spaces when necessary to make code blocks that logically fit together
+- Properly format the code (use SHIFT + ALT + F to autoformat)
 
 ADDITIONAL FEATURES:
 
